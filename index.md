@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-<head>
+<body>
 <script src="index.js"></script>
-</head>
+</body>
